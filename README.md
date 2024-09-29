@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elly-otieno
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on major projects
+- 👋 Hi, I’m Elly
+- 👀 Frontend dev
+- 🌱 Always learning something new
+- 💞️ Love doing electronics projects but currently on software dev part
 - 📫 How to reach me okothelli@gmail.com
 
 <!---
